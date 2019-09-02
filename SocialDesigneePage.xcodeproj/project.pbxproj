@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		312A3D6E231BD9460071398A /* CloudContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 312A3D6D231BD9460071398A /* CloudContainer.swift */; };
 		317C6DC4231565CF006F10F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 317C6DC3231565CF006F10F0 /* AppDelegate.swift */; };
 		317C6DC6231565CF006F10F0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 317C6DC5231565CF006F10F0 /* ViewController.swift */; };
 		317C6DC9231565CF006F10F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 317C6DC7231565CF006F10F0 /* Main.storyboard */; };
@@ -30,6 +31,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		312A3D6D231BD9460071398A /* CloudContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudContainer.swift; sourceTree = "<group>"; };
 		317C6DC0231565CF006F10F0 /* SocialDesigneePage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SocialDesigneePage.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		317C6DC3231565CF006F10F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		317C6DC5231565CF006F10F0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 				31D7ECF9231BBA41006641A0 /* ListKegiatanSDViewController.swift */,
 				4A0D723B23169EDC0097C46D /* CustomTableViewCell.swift */,
 				317C6DE123162AED006F10F0 /* NotifCell.swift */,
+				312A3D6D231BD9460071398A /* CloudContainer.swift */,
 				4A0D723923168B880097C46D /* uploadCertifViewController.swift */,
 				317C6DDF23162A79006F10F0 /* NotifcationViewController.swift */,
 				317C6DE323162D8E006F10F0 /* notification.swift */,
@@ -204,6 +207,7 @@
 				4A0D723C23169EDC0097C46D /* CustomTableViewCell.swift in Sources */,
 				31D7ECF8231BB9B6006641A0 /* EditSDViewController.swift in Sources */,
 				31D7ECFC231BBB3B006641A0 /* roundShape.swift in Sources */,
+				312A3D6E231BD9460071398A /* CloudContainer.swift in Sources */,
 				4A0D723E2316AC960097C46D /* roundShapeCorner.swift in Sources */,
 				4A0D723A23168B880097C46D /* uploadCertifViewController.swift in Sources */,
 				317C6DE223162AED006F10F0 /* NotifCell.swift in Sources */,

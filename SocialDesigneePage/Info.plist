@@ -43,5 +43,7 @@
 	</array>
 	<key>NSCameraUsageDescription</key>
 	<string>We want to access your camera to scan QR Code</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>We want to acces your location</string>
 </dict>
 </plist>
